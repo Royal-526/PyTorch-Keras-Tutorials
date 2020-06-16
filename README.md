@@ -7,7 +7,7 @@
 ### Learning PyTorch
 
 01 - Deep Learning with PyTorch: A 60 Minute Blitz
-   * Part 1: [What is PyTorch?](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Deep%20Learning%20with%20PyTorch%20A%2060%20Minute%20Blitz%20-%20P1.ipynb)
+[[What is PyTorch?](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Deep%20Learning%20with%20PyTorch%20A%2060%20Minute%20Blitz%20-%20P1.ipynb)]
 
 02 - Learning PyTorch with Examples
 

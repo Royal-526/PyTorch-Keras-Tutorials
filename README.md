@@ -6,7 +6,7 @@
 
 ### Learning PyTorch
 
-01 - Deep Learning with PyTorch: A 60 Minute Blitz<br>
+<b>01 - Deep Learning with PyTorch: A 60 Minute Blitz</b><br>
 [[What is PyTorch?](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Deep%20Learning%20with%20PyTorch%20A%2060%20Minute%20Blitz%20-%20P1.ipynb)]
 [[Autograd](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Deep%20Learning%20with%20PyTorch%20A%2060%20Minute%20Blitz%20-%20P2.ipynb)]
 [[Neural Networks](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Deep%20Learning%20with%20PyTorch%20A%2060%20Minute%20Blitz%20-%20P3.ipynb)]

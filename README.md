@@ -12,7 +12,8 @@
 [[Neural Networks](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Deep%20Learning%20with%20PyTorch%20A%2060%20Minute%20Blitz%20-%20P3.ipynb)]
 [[Training a Classifier](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Deep%20Learning%20with%20PyTorch%20A%2060%20Minute%20Blitz%20-%20P4.ipynb)]
 
-02 - Learning PyTorch with Examples
+<b>02 - Learning PyTorch with Examples</b><br>
+[[Tensors, Autograd, and nn module](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Learning%20PyTorch%20with%20Examples.ipynb)]
 
 03 - What is torch.nn really?
 

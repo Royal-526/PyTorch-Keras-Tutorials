@@ -16,8 +16,8 @@
 [[Tensors, Autograd, and nn Module](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/Learning%20PyTorch%20with%20Examples.ipynb)]
 
 <b>03 - What is torch.nn really?</b><br>
-[[Neural Net from Scratch]()]
-[[Using torch.nn.functional]()]
+[[Neural Net from Scratch](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/What%20is%20Torch%20nn%20Really%20-%20P1.ipynb)]
+[[Using torch.nn.functional](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/What%20is%20Torch%20nn%20Really%20-%20P2.ipynb)]
 
 04 - Visualizing Models, Data, and Training with TensorBoard
 

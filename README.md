@@ -28,7 +28,7 @@
 ### Image/Video
 
 <b>01 - TorchVision Object Detection Finetuning Tutorial</b><br>
-[[Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation]()]
+[[Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation](https://github.com/Royal-526/PyTorch-Tutorials/blob/master/Notebooks/TorchVision%20Object%20Detection%20Finetuning%20Tutorial.ipynb)]
 
 02 - Transfer Learning for Computer Vision Tutorial
 

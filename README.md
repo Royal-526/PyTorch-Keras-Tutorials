@@ -31,15 +31,21 @@
 - <b>01 - TorchVision Object Detection Finetuning Tutorial</b><br>
   - [Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/torchvision_object_detection_finetuning/image_torchvision_object_detection_finetuning.ipynb)
 
-- 02 - Transfer Learning for Computer Vision Tutorial
+- <b>02 - Transfer Learning for Computer Vision Tutorial</b><br>
+  - [Train a CNN for Image Classification using Transfer Learning]()
 
 - 03 - Adversarial Example Generation
 
-- 04 - DCGAN Tutorial
+- <b>04 - Generative Adversarial Nets</b><br>
+  - [GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_pytorch.ipynb)
+  - [GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_keras.ipynb)
 
-- <b>05 - Domain Adaptation Tutorial</b><br>
-  - [Introduction to Few-Shot Learning and Meta Learning]()
-  - [Siamese Networks Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/siamese_net_tutorial/keras_siamese_net.ipynb)
+- 05 - DCGAN Tutorial
+
+- <b>06 - Domain Adaptation Tutorial</b><br>
+  - [Introduction to Few-Shot Learning and Meta Learning](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/intro_few_shot_meta_learning/intro_few_shot_meta_learning.ipynb)
+  - Siamese Networks Tutorial (PyTorch)
+  - [Siamese Networks Tutorial (Keras)](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/siamese_net_tutorial/keras_siamese_net.ipynb)
 
 
 ## Text

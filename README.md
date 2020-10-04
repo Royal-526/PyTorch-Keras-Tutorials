@@ -16,8 +16,8 @@
   - [Tensors, Autograd, and nn Module](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/learning_pytorch_with_examples/learn_learning_pytorch_with_examples.ipynb)
 
 - <b>03 - What is torch.nn really?</b><br>
-  - [Neural Net from Scratch]()
-  - [Using torch.nn.functional]()
+  - [Neural Net from Scratch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/what_is_torch_nn/01_neural_nets_from_scratch.ipynb)
+  - [Using torch.nn.functional](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/what_is_torch_nn/02_torch_nn_functional.ipynb)
 
 - <b>04 - Visualizing Models, Data, and Training with TensorBoard</b><br>
   - [TensorBoard Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Foundations/visualizing_tensorboard/tensorboard.ipynb)
@@ -28,17 +28,21 @@
 
 ## Image/Video
 
-- <b>01 - TorchVision Object Detection Finetuning Tutorial</b><br>
+- <b>01 - Torchvision Object Detection Finetuning Tutorial</b><br>
   - [Finetuning Mask R-CNN in the PennFudan Database for Pedestrian Detection and Segmentation](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/torchvision_object_detection_finetuning/image_torchvision_object_detection_finetuning.ipynb)
 
-- <b>02 - Transfer Learning for Computer Vision Tutorial</b><br>
+- <b>02 - Transfer Learning for Computer Vision</b><br>
   - [Train a CNN for Image Classification using Transfer Learning]()
+  - [Quantized Transfer Learning for Computer Vision Tutorial]()
 
-- 03 - Adversarial Example Generation
+- <b>03 - Adversarial Example Generation</b><br>
+  - [FPSM: Explaining and Harnessing Adversarial Examples](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/adversarial_example_generation/adversarial_example_generation.ipynb)
 
 - <b>04 - Generative Adversarial Nets</b><br>
   - [GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_pytorch.ipynb)
   - [GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/gan_in_keras.ipynb)
+  - [Conditional GAN in Keras](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/conditional_gan_in_keras.ipynb)
+  - [Wasserstein GAN in PyTorch](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/generative_adversarial_nets/wgan_in_pytorch.ipynb)
 
 - 05 - DCGAN Tutorial
 
@@ -46,6 +50,14 @@
   - [Introduction to Few-Shot Learning and Meta Learning](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/intro_few_shot_meta_learning/intro_few_shot_meta_learning.ipynb)
   - Siamese Networks Tutorial (PyTorch)
   - [Siamese Networks Tutorial (Keras)](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Images/domain_adaptation/siamese_net_tutorial/keras_siamese_net.ipynb)
+  
+- <b>07 - Advances in Few-Shot Learning</b><br>
+  - [Advances in Few-Shot Learning: A Guided Tour]()
+  - [Advances in Few-Shot Learning: Reproducing Results in PyTorch]()
+  - [Matching Networks: A Differentiable Nearest-Neighbours Classifier]()
+  - [Prototypical Networks: Learning Prototypical Representations]()
+  - [Model-Agnostic Meta-Learning: Learning to Fine-Tune]()
+  - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks]()
 
 
 ## Text
@@ -62,7 +74,7 @@
 
 - 06 - Language Translation with TorchText
 
-- <b>07 - Transformer</b><br>
+- <b>07 - Transformers</b><br>
   - [Transformer Tutorial](https://github.com/Andrew-Ng-s-number-one-fan/PyTorch-Tutorials/blob/master/Notebooks/Texts/transformer_tutorial/transformer.ipynb)
 
 
